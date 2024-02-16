@@ -1,15 +1,3 @@
-# Module 14: Belly Button Challenge
-
-## Table of Contents
-- [About](#about)
-- [Tools](#tools)
-- [Key Steps](#key-steps)
-   - [JSON Data](#json-data)
-   - [Populated Dropdown](#populated-dropdown)
-   - [Horizontal Bar Chart](#horizontal-bar-chart)
-   - [Metadata](#metadata)
-   - [Bonus](#bonus)
- 
 ## About
 The purpose of this project is to create interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
