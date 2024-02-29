@@ -1,5 +1,6 @@
 ## About
-The purpose of this project is to create interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+The purpose of this project is to create interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.  
+This visualization can be viewed at https://leena-680.github.io/belly-button-challenge/  
 
 ## Tools
 - Javascript
